@@ -1,0 +1,35 @@
+commit 6dccbd67ae577a4d3fcd5d5b9a230ce781a57217
+Author: cunksy <elijahobijekwu@gmail.com>
+Date:   Sat Jul 8 15:21:44 2023 +0100
+
+    new line added
+
+commit 8b2d29c5f713ea92154b09aeccbec12e8dbd65f0
+Author: cunksy <elijahobijekwu@gmail.com>
+Date:   Wed Jul 5 12:09:52 2023 +0100
+
+    commit simlink
+
+commit d42323bcacd9d754fe41a2662ae5abdcd7f6da8d
+Author: cunksy <elijahobijekwu@gmail.com>
+Date:   Wed Jul 5 11:54:39 2023 +0100
+
+    unstaged a file
+
+commit 14e9d8ce86324bf01e35a0e50c251105e247e358
+Author: cunksy <elijahobijekwu@gmail.com>
+Date:   Mon Jul 3 21:17:27 2023 +0100
+
+    added two files
+
+commit 18278d2135778d5cb50da6c569590ed54824b437
+Author: cunksy <elijahobijekwu@gmail.com>
+Date:   Mon Jul 3 21:00:55 2023 +0100
+
+    chukzy.txt
+
+commit a3ac527d0a39d5bacf6df068b2746acf7ef87ffc
+Author: cunksy <elijahobijekwu@gmail.com>
+Date:   Mon Jul 3 20:09:50 2023 +0100
+
+    added gitfile.txt
